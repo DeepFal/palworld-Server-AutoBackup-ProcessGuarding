@@ -1,0 +1,5 @@
+# Palworld服务端自动备份存档&进程守护脚本
+
+使用windows原生powershell制作，无需安装任何依赖，复制就能用
+
+适用于Windows系统中使用steamcmd启动的Palworld服务端
